@@ -1,3 +1,5 @@
 *.csv
 .*
 !/.gitignore
+searches_no_duplicates_csv.csv.bz2
+searches_with_no_duplicates.csv.bz2
